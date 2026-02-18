@@ -1,0 +1,14 @@
+^LICENSE\.md$
+^README\.(Rmd|html)$
+^\.github$
+^\.lintr$
+_\.new\.png$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^vignettes/*_files$
+^cran-comments\.md$
+^CRAN-SUBMISSION$
+^vignettes/\.quarto$
+^doc$
+^Meta$
